@@ -7,7 +7,6 @@ This is a responsive chat application built with React, Material-UI, and Redux T
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Links](#Links)
-- 
 
 ## Features
 
@@ -27,3 +26,7 @@ This is a responsive chat application built with React, Material-UI, and Redux T
 - **JavaScript**: The programming language used for the application.
 
 ## Links 
+Deployment : https://chat-app-nu-black.vercel.app/
+
+
+
